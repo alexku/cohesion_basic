@@ -1,0 +1,18 @@
+langcode: en
+status: false
+dependencies: {  }
+label: 'Media library (Media)'
+id: media___any___media_library
+json_values: '{"canvas":[],"model":[],"mapper":null}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: __any__
+view_mode: media_library
+master_template: ''

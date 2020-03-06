@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: null
+id: x
+json_values: '{"uid":"x","value":"x"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+weight: 0

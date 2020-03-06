@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: Roboto
+id: cecf9b4906ed518249f2492c7337d98c
+json_values: '{"type":"import","url":"https:\/\/fonts.googleapis.com\/css?family=Playfair+Display:400,700|Roboto:400,500,700","name":"Roboto and Playfair","uid":"cecf9b4906ed518249f2492c7337d98c"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+source: fonts

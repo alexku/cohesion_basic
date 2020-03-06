@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'Container theme - white'
+id: layout_ecc2643d
+json_values: '{"preview":{"text":"<div class=\"coh-preview\">Default content for ''Layout''.<\/div>","textFormat":"cohesion"},"styles":{"settings":{"element":"div","class":"","combinator":"","pseudo":""},"styles":{"xl":{"background-color":{}},"xs":{"background-color":{"value":{"value":{"hex":"#ffffff","rgba":"rgba(255, 255, 255, 1)"},"name":"White","uid":"white","wysiwyg":true,"class":".coh-color-white","variable":"$coh-color-white","inuse":true}}}}},"sBackgroundColour":"#FFFFFF"}'
+json_mapper: '{"styles":{"topLevel":{"title":"Layout","selectorType":"topLevel","formDefinition":[{"formKey":"background","children":[{"formKey":"background-color","breakpoints":[{"name":"xs"}],"activeFields":[{"name":"background-color","active":true}]}]}],"form":{"type":"cohFormBuilder","element":"div","currentLevel":"div","defaultKey":"custom-styles-layout","items":[{"type":"cohAccordion","htmlClass":"coh-accordion-dark","title":"Background","formKey":"background","weight":2,"isOpen":true,"options":["background-image","background-image-and-gradient"],"items":[{"type":"cohSection","title":"Background color","formKey":"background-color","helpKey":"css-background-color","weight":1,"breakpoints":true,"items":[{"type":"fieldsetArray","items":[{"custom":false,"key":["xs"],"title":"xs","label":"Mobile Portrait","type":"cohBreakpointFieldset","items":[{"type":"cohColourPickerOpener","key":["styles","styles","xs","background-color","value"],"title":"Color","isStyle":true,"defaultActive":true,"schema":{"type":"object"},"originalKeyValue":["background-color","value"],"breakpointName":"xs","isActive":true,"ngModelOptions":{},"colourPickerOptions":{"flat":true},"options":{"preferredFormat":"hex"}}],"ngModelOptions":{}}]}],"mapperKey":"styles","currentBreakpoints":[{"iconName":"mobile","name":"xs"}],"ngModelOptions":{}}],"ngModelOptions":{}}],"ngModelOptions":{},"isOpen":true,"mapperKey":"styles","currentLevelTitle":"Default"}},"dropzone":[],"selectorType":"topLevel"}}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+class_name: .coh-style-container-theme---white
+custom_style_type: layout
+available_in_wysiwyg: false
+parent: null
+weight: 11

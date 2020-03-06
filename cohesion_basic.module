@@ -1,0 +1,27 @@
+<?php
+
+/**
+ * @file
+ * Provides main module functions and hook implementations.
+ */
+
+/**
+* Implements hook_page_attachments_alter().
+*/
+function cohesion_basic_page_attachments_alter(array &$page) {
+    $cohesion = array(
+        '#tag' => 'cohesion-placeholder',
+    );
+
+    $page['#attached']['html_head'][] = [$cohesion, 'cohesion-placeholder'];
+}
+
+/**
+* Implements hook_system_info_alter().
+*/
+function cohesion_basic_system_info_alter(array &$info, \Drupal\Core\Extension\Extension $file, $type) {
+  // Enable Cohesion for all themes.
+  if ($type == 'theme') {
+    $info['cohesion'] = TRUE;
+  }
+}

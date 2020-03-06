@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: Rubik
+id: a7e17b4f1a527bce2b5b5117d47a5c91
+json_values: '{"type":"import","name":"Roboto and Playfair","url":"https:\/\/fonts.googleapis.com\/css?family=Playfair+Display:400,700|Roboto:400,500,700","uid":"a7e17b4f1a527bce2b5b5117d47a5c91"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+source: fonts

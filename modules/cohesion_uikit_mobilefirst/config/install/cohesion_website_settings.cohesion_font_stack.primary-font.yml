@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: Roboto
+id: primary-font
+json_values: '{"inuse":true,"systemfont":false,"name":"Roboto","uid":"primary-font","class":".coh-font-primary-font","variable":"$coh-font-primary-font","fontStack":"''Roboto'', sans-serif","smoothing":{"firefox":true,"webkit":true}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+source: fontStacks

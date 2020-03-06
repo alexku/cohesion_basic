@@ -1,0 +1,23 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_basic_layout_canvas
+    - node.type.cohesion_canvas_page
+  module:
+    - cohesion_elements
+id: node.cohesion_canvas_page.field_basic_layout_canvas
+field_name: field_basic_layout_canvas
+entity_type: node
+bundle: cohesion_canvas_page
+label: 'Layout canvas'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:cohesion_layout'
+  access_elements: '0'
+  handler_settings: {  }
+field_type: cohesion_entity_reference_revisions

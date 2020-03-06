@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: White
+id: white
+json_values: '{"name":"White","uid":"white","value":{"value":{"hex":"#ffffff","rgba":"rgba(255, 255, 255, 1)"}},"wysiwyg":true,"class":".coh-color-white","variable":"$coh-color-white","inuse":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: false
+selectable: true
+weight: 6

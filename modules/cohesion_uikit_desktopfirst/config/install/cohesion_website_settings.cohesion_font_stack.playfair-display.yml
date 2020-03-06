@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'Playfair Display'
+id: playfair-display
+json_values: '{"inuse":true,"systemfont":false,"name":"Playfair Display","uid":"playfair-display","class":".coh-font-playfair-display","variable":"$coh-font-playfair-display","fontStack":"''Playfair Display'', serif","smoothing":{"firefox":true,"webkit":true}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+source: fontStacks

@@ -1,0 +1,17 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Cohesion page'
+type: cohesion_canvas_page
+description: 'A content type with content managed using Cohesion.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

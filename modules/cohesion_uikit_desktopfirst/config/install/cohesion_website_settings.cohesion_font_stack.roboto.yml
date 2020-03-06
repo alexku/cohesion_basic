@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: Roboto
+id: roboto
+json_values: '{"inuse":false,"systemfont":false,"fontStack":"''Roboto'', sans-serif","name":"Roboto","uid":"roboto","class":".coh-font-roboto","variable":"$coh-font-roboto","smoothing":{"firefox":true,"webkit":true}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+source: fontStacks

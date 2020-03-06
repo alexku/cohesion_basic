@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: Gray
+id: gray
+json_values: '{"name":"Gray","uid":"gray","value":{"value":{"hex":"#bbbbbb","rgba":"rgba(128, 128, 128, 1)"}},"wysiwyg":true,"class":".coh-color-gray","variable":"$coh-color-gray","inuse":false}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+weight: 1

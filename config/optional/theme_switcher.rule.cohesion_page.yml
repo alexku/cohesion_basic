@@ -1,0 +1,24 @@
+uuid: 6062334f-f943-4f8f-b040-b37c02bf9220
+langcode: en
+status: false
+dependencies:
+  module:
+    - cohesion
+    - node
+id: cohesion_page
+label: 'Cohesion page'
+weight: 0
+theme: cohesion_theme
+admin_theme: ''
+visibility:
+  cohesion_master_template:
+    id: cohesion_master_template
+    using_master_template: 0
+    negate: false
+  node_type:
+    id: node_type
+    bundles:
+      cohesion_canvas_page: cohesion_canvas_page
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

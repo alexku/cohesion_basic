@@ -1,0 +1,21 @@
+name: 'Cohesion basic'
+type: module
+description: 'Enables Cohesion modules and adds a content type and a block with cohesion canvas field.'
+core: 8.x
+package: cohesion
+features: true
+dependencies:
+  - block_content
+  - cohesion_base_styles
+  - cohesion_custom_styles
+  - cohesion_elements
+  - cohesion_sync
+  - cohesion_templates
+  - cohesion_website_settings
+  - content_moderation
+  - field
+  - menu_ui
+  - node
+  - path
+  - user
+core_incompatible: false

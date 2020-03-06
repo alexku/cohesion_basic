@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'Playfair Display'
+id: secondary-font
+json_values: '{"inuse":true,"systemfont":false,"name":"Playfair Display","uid":"secondary-font","class":".coh-font-secondary-font","variable":"$coh-font-secondary-font","fontStack":"''Playfair Display'', serif","smoothing":{"firefox":true,"webkit":true}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+source: fontStacks

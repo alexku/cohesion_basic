@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+id: cohesion_canvas_block
+label: 'Cohesion block'
+revision: 1
+description: 'A block with content managed using Cohesion.'

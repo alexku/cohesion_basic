@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'General helpers'
+id: hlp_cat_general_helpers
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: false
+selectable: true
+class: category-3
+weight: -10

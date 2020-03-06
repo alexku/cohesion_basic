@@ -1,0 +1,12 @@
+name: 'Cohesion UI Kit Desktop First'
+type: module
+core: 8.x
+package: cohesion
+dependencies:
+  - features
+  - cohesion_base_styles
+  - cohesion_custom_styles
+  - cohesion_elements
+  - cohesion_templates
+  - cohesion_website_settings
+core_incompatible: false

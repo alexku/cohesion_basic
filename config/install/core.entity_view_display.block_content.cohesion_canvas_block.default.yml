@@ -1,0 +1,25 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.cohesion_canvas_block
+    - field.field.block_content.cohesion_canvas_block.field_basic_layout_canvas
+  module:
+    - cohesion_elements
+id: block_content.cohesion_canvas_block.default
+targetEntityType: block_content
+bundle: cohesion_canvas_block
+mode: default
+content:
+  field_basic_layout_canvas:
+    type: cohesion_entity_reference_revisions_entity_view
+    weight: 0
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true
+  search_api_excerpt: true

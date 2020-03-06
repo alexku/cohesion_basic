@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'Dynamic helpers'
+id: hlp_cat_dynamic_helpers
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: false
+selectable: true
+class: category-2
+weight: -6

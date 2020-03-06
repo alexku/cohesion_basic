@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'General components'
+id: cpt_cat_general_components
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: false
+selectable: true
+class: category-3
+weight: -10

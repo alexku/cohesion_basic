@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'Slide item'
+id: 593051a6
+json_values: '{"canvas":[{"type":"container","uid":"slide","title":"Slide","status":{"collapsed":false},"parentIndex":4,"uuid":"33bee3bb-ffee-4b4e-a161-81f99af7ffa7","parentUid":"root","isContainer":true,"children":[{"type":"item","uid":"component-drop-zone-placeholder","title":"Component drop zone","status":{"collapsed":true},"parentIndex":0,"uuid":"a802efcf-aca8-4ea3-838d-c3c2eb6f036c","parentUid":"slide","isContainer":false,"children":[]}]}],"componentForm":[{"type":"form-help","uid":"form-helptext","title":"Help text","parentIndex":"form-help","status":{"collapsed":false},"uuid":"85dace69-85a8-4553-b230-d8bc83e030bd","parentUid":"root","isContainer":false,"children":[]}],"model":{"33bee3bb-ffee-4b4e-a161-81f99af7ffa7":{},"a802efcf-aca8-4ea3-838d-c3c2eb6f036c":{"settings":{"dropzoneHideSelector":"","title":"Drop slide content here"}},"85dace69-85a8-4553-b230-d8bc83e030bd":{"settings":{"type":"cohHelpText","title":"Help text"},"contextVisibility":{"condition":"ALL"},"model":{"value":"To create a slide drop a component into the slide drop zone."}}},"mapper":{"a802efcf-aca8-4ea3-838d-c3c2eb6f036c":{},"33bee3bb-ffee-4b4e-a161-81f99af7ffa7":{}}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: true
+category: cpt_cat_interactive_components
+preview_image: 'public://cohesion/element-preview-images/Slide-item.png'
+has_quick_edit: true
+entity_type_access: {  }
+bundle_access: {  }
+twig_template: component--cohesion-593051a6
+weight: null

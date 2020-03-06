@@ -1,0 +1,14 @@
+langcode: en
+status: false
+dependencies: {  }
+label: 'Master template'
+id: master_template
+json_values: '{"canvas":[{"uid":"85526d0c","type":"component","title":"Template - Header","enabled":true,"category":"general","componentId":"85526d0c","componentType":"container","preview_image":{"url":false},"parentIndex":0,"parentUid":"root","uuid":"bf175159-4562-4f2a-b0aa-8007b3b6ad34","isContainer":0,"children":[]},{"type":"item","uid":"drupal-region","title":"Region","status":{"collapsed":true},"parentIndex":4,"uuid":"376568ab-3e37-4df5-b8d5-282dc9cf26e2","parentUid":"root","isContainer":false,"children":[]},{"uid":"8d403985","type":"component","title":"Template - footer","enabled":true,"category":"general","componentId":"8d403985","componentType":"container","preview_image":{"url":false},"parentIndex":0,"parentUid":"root","uuid":"a23070d9-4877-4d71-978b-ca6f1b1b3c5e","isContainer":0,"children":[]}],"model":{"bf175159-4562-4f2a-b0aa-8007b3b6ad34":{},"376568ab-3e37-4df5-b8d5-282dc9cf26e2":{"context-visibility":{"contextVisibility":{"condition":"ALL"}},"styles":{"settings":{"element":"region"}},"settings":{"region":{"theme":"cohesion_theme","type":"content"},"title":"Content region"}},"a23070d9-4877-4d71-978b-ca6f1b1b3c5e":{}},"mapper":{"376568ab-3e37-4df5-b8d5-282dc9cf26e2":{}}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0015
+locked: false
+modified: true
+selectable: false
+custom: false
+twig_template: page--cohesion--master-template
+default: false
