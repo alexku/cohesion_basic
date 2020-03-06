@@ -4,7 +4,6 @@ description: 'Provides a simple Image entity browser.'
 core: 8.x
 package: cohesion
 dependencies:
-  - cohesion_basic_media
   - entity_browser
   - file
   - image
