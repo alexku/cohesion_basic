@@ -18,6 +18,8 @@ To prepare your codebase for Cohesion follow [instructions](https://cohesiondocs
 
 Skip step "5. Enable Acquia Cohesion" for now. Cohesion Basic will enable the modules for you.
 
+After Cohesion modules are added, add the `cohesion_basic` module to modules/custom folder.
+
 If your site does not have an Image Browser and you will want to use simple Image Browser from `cohesion_basic_media` module, run this command:
 ```
 composer require drupal/views_infinite_scroll
