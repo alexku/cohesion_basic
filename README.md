@@ -18,7 +18,11 @@ To prepare your codebase for Cohesion follow [instructions](https://cohesiondocs
 
 Skip step "5. Enable Acquia Cohesion" for now. Cohesion Basic will enable the modules for you.
 
-After Cohesion modules are added, add the `cohesion_basic` module to modules/custom folder.
+After Cohesion modules are added, add the `cohesion_basic` module to modules/custom folder or run:
+```
+composer config repositories.cohesion_basic vcs https://github.com/alexku/cohesion_basic
+composer require alexku/cohesion_basic:dev-master
+```
 
 If your site does not have an Image Browser and you will want to use simple Image Browser from `cohesion_basic_media` module, run this command:
 ```
