@@ -5,7 +5,7 @@ Cohesion Basic is an experimental set of modules, features and config which auto
 At a high level, it provides:
 - `Cohesion Page` content type, which can be used to create pages and place Cohesion components on them. You could create a campaign, landing or even homepage using this content type.
 - `Cohesion block` block type, which can be used to create blocks and place Cohesion components on them. You could create a Footer or a Header block and use it on different pages of your site.
-- Sum-modules to import the [UI Kit](https://uikit.cohesiondx.com/), which provides a rich set of common webpage components.
+- Sub-modules to import the [UI Kit](https://uikit.cohesiondx.com/), which provides a rich set of common webpage components.
 - Required [theme changes](https://cohesiondocs.acquia.com/user-guide/step-3-modify-your-website-theme) without modifications of your existing Drupal theme code.
 - A simple Image Browser for sites which do not have one already.
 
