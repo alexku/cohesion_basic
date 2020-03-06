@@ -48,7 +48,7 @@ composer require drupal/views_infinite_scroll
 
 If you install the [Theme Switcher Rules](https://www.drupal.org/project/theme_switcher) module, Cohesion Basic will add an example theme switcher rule.
 
-The rule is disabled by default. Once enabled it will switch site theme to `cohesion_theme` on all `cohesion_page` node pages.
+The rule is disabled by default. Once enabled it will switch site theme to `cohesion_theme` on all `cohesion_canvas_page` node pages.
 
 Rules are configured on page: /admin/config/system/theme_switcher
 
