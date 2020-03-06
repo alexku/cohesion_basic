@@ -10,6 +10,7 @@
   },
   "suggest": {
     "drupal/features": "Required to import the UI Kit included with Cohesion Basic.",
-    "drupal/views_infinite_scroll": "Needed for the Image Browser functionality."
+    "drupal/views_infinite_scroll": "Needed for the Image Browser functionality.",
+    "drupal/theme_switcher": "Can be used to apply a different theme to cohesion node pages."
   }
 }

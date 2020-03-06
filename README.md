@@ -66,7 +66,6 @@ Theme switching allows you to create standalone "micro-site" or "campaign" type 
 
 # Ideas to implement
 
-1. Make it a composer package.
 1. Hiding regions or switching theme from cohesion_canvas_page content type.
 1. `cohesion_basic_media` module could set the Cohesion image browser setting, if there is no image browser configured.
 1. Nodes with Cohesion components added to a site using blocks can allow preview and moderation of site header and footer.
