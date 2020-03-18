@@ -35,7 +35,7 @@ composer require drupal/views_infinite_scroll
 1. Configure Cohesion keys on page /admin/cohesion/configuration/account-settings
 1. Configure image browsers on page /admin/cohesion/configuration/system-settings
   1. Enable `cohesion_basic_media` module to get a simple Drupal core media based image browser configured.
-1. Configure the Color palette: /admin/cohesion/cohesion_website_settings/color_palette/bulk_edit and other styling settings to align cohesion styling with main website theme. Check [this page](https://cohesiondocs.acquia.com/user-guide/using-acquia-cohesion-existing-website) for additional instruction.
+1. Configure the Color palette: /admin/cohesion/cohesion_website_settings/color_palette/bulk_edit and other styling settings to align cohesion styling with main website theme. Check [this page](https://cohesiondocs.acquia.com/user-guide/using-acquia-cohesion-existing-website) for additional instructions.
 1. Enable `cohesion_uikit_mobilefirst` **OR** `cohesion_uikit_desktopfirst` module to import the UI kit and disable master templates. The module will import significant amount of config and it is best to enable the module separately from other modules. **Do not** enable both modules at the same time.
 1. Rebuild Cohesion: /admin/cohesion/developer/rebuild
 
