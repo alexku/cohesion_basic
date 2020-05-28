@@ -5,12 +5,17 @@
   "type": "drupal-module",
   "minimum-stability": "dev",
   "require": {
-    "cohesion/dx8": ">=5.6.1",
-    "cohesion/dx8-theme": ">=5.6.2"
+    "drupal/entity_reference_revisions": "1.x-dev",
+    "acquia/cohesion": "6.1.0",
+    "acquia/cohesion-theme": "6.1.0"
   },
   "suggest": {
     "drupal/features": "Required to import the UI Kit included with Cohesion Basic.",
     "drupal/views_infinite_scroll": "Needed for the Image Browser functionality.",
     "drupal/theme_switcher": "Can be used to apply a different theme to cohesion node pages."
-  }
+  },
+  "repositories": [{
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }]
 }
